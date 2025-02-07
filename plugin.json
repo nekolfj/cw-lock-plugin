@@ -1,0 +1,13 @@
+{
+    "name": "一键锁屏",
+    "description": "",
+    "version": "1.0",
+    "plugin_ver": 1,
+    "author": "neko_lfj",
+    "settings": true,
+
+    "url": "https://github.com/nekolfj/cw-lock-plugin",
+    "branch": "main",
+
+    "update_date": "2024/2/7"
+}
